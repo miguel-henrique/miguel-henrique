@@ -30,6 +30,4 @@
   <a href="https://itsmiguel.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
-![snake animation](https://github.com/miguel-henrique/miguel-henrique/blob/output/github-contribution-grid-snake2.svg)
-
-[Platane/snk](https://github.com/Platane/snk)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/miguel-henrique/miguel-henrique/output/github-contribution-grid-snake-dark.svg" />
